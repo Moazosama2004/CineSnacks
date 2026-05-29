@@ -101,8 +101,7 @@
 		411BACAB2FCA515800C786F4 /* CineSnacks */ = {
 			isa = PBXGroup;
 			children = (
-				411BACAC2FCA515800C786F4 /* AppDelegate.swift */,
-				411BACAE2FCA515800C786F4 /* SceneDelegate.swift */,
+				411BACDF2FCA52B900C786F4 /* App */,
 				411BACB02FCA515800C786F4 /* ViewController.swift */,
 				411BACB22FCA515800C786F4 /* Main.storyboard */,
 				411BACB82FCA515F00C786F4 /* Assets.xcassets */,
@@ -128,6 +127,15 @@
 				411BACD22FCA515F00C786F4 /* CineSnacksUITestsLaunchTests.swift */,
 			);
 			path = CineSnacksUITests;
+			sourceTree = "<group>";
+		};
+		411BACDF2FCA52B900C786F4 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				411BACAC2FCA515800C786F4 /* AppDelegate.swift */,
+				411BACAE2FCA515800C786F4 /* SceneDelegate.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
